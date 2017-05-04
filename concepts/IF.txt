@@ -1,0 +1,19 @@
+Understand that a function from one set (called the domain) to another set (called the range) assigns to each element of the domain exactly one element of the range. 
+If f is a function and x is an element of its domain, then f(x) denotes the output of f corresponding to the input x. 
+The graph of f is the graph of the equation y = f(x).
+Use function notation, evaluate functions for inputs in their domains, and interpret statements that use function notation in terms of a context
+Recognize that sequences are functions, sometimes defined recursively, whose domain is a subset of the integers. For example, the Fibonacci sequence is defined recursively by f(0) = f(1) = 1, f(n+1) = f(n) + f(n-1) for n ≥ 1.
+For a function that models a relationship between two quantities, interpret key features of graphs and tables in terms of the quantities and sketch graphs showing key features given a verbal description of the relationship. Key features include: intercepts; intervals where the function is increasing, decreasing, positive, or negative; relative maximums and minimums; symmetries; end behavior; and periodicity.
+Relate the domain of a function to its graph and, where applicable, to the quantitative relationship it describes. For example, if the function h(n) gives the number of person-hours it takes to assemble n engines in a factory, then the positive integers would be an appropriate domain for the function.
+Calculate and interpret the average rate of change of a function (presented symbolically or as a table) over a specified interval. Estimate the rate of change from a graph.
+Graph functions expressed symbolically and show key features of the graph by hand in simple cases and using technology for more complicated cases.
+Graph linear and quadratic functions and show intercepts, maxima, and minima.
+Graph square root, cube root, and piecewise-defined functions, including step functions and absolute value functions.
+Graph polynomial functions, identifying zeros when suitable factorizations are available and showing end behavior. 
+Graph rational functions, identifying zeros and asymptotes when suitable factorizations are available and showing end behavior.
+Graph exponential and logarithmic functions, showing intercepts and end behavior, and trigonometric functions, showing period, midline, and amplitude and using phase shift.
+Write a function defined by an expression in different but equivalent forms to reveal and explain different properties of the function.
+Use the process of factoring and completing the square in a quadratic function to show zeros, extreme values, and symmetry of the graph, and interpret these in terms of a context.
+Use the properties of exponents to interpret expressions for exponential functions. 
+Identify percent rate of change in functions such as , , , and and classify them as representing exponential growth or decay.
+Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions). For example, given a graph of one quadratic function and an algebraic expression for another, say which has the larger maximum.

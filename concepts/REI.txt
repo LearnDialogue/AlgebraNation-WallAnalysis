@@ -1,0 +1,17 @@
+Explain each step in solving a simple equation as following from the equality of numbers asserted at the previous step, starting from the assumption that the original equation has a solution.
+complete an algebraic proof of solving a linear equation. 
+construct a viable argument to justify a solution method equality of numbers
+Solve linear equations and inequalities in one variable, including equations with coefficients represented by letters.
+Solve quadratic equations in one variable. a. Use the method of completing the square to transform any quadratic equation in x into an equation of the form (x – p)² = q that has the same solutions. Derive the quadratic formula from this form. 
+Solve quadratic equations by inspection (e.g., for x² = 49), taking square roots, completing the square, the quadratic formula, and factoring, as appropriate to the initial form of the equation. Recognize when the quadratic formula gives complex solutions and write them as a ± bi for real numbers a and b.
+Prove that, given a system of two equations in two variables, replacing one equation by the sum of that equation and a multiple of the other produces a system with the same solutions.
+Solve systems of linear equations exactly and approximately (e.g., with graphs), focusing on pairs of linear equations in two variables.
+Understand that the graph of an equation in two variables is the set of all its solutions plotted in the coordinate plane, often forming a curve (which could be a line)
+Explain why the x-coordinates of the points where the graphs of the equations y = f(x) and y = g(x) intersect are the solutions of the equation f(x) = g(x); find the solutions approximately (e.g., using technology to graph the functions, make tables of values, or find successive approximations). 
+cases where f(x) and/or g(x) are linear, polynomial, rational, absolute value, exponential, and logarithmic functions.
+find a solution or an approximate solution for f(x) = g(x) using a graph. 
+find a solution or an approximate solution for f(x) = g(x) using a table of values. 
+find a solution or an approximate solution for f(x) = g(x) using successive approximations that give the solution to a given place value. 
+justify why the intersection of two functions is a solution to f(x) = g(x). 
+verify if a set of ordered pairs is a solution of a function
+Graph the solutions to a linear inequality in two variables as a halfplane (excluding the boundary in the case of a strict inequality), and graph the solution set to a system of linear inequalities in two variables as the intersection of the corresponding half-planes

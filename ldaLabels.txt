@@ -1,0 +1,25 @@
+0 NM - Call for help.
+1 Math
+2 Math
+3 NM - moderation
+4 NM - names - moderation.
+5 Math
+6 NM - socialize - locations, dates, cost, numbers. —could be math as well!
+7 Math - geometry - could be NM
+8 NM - socialize
+9 Math - equations and numbers.
+10 NM
+11 NM - karma points - welcome
+12 Math
+13 Math
+14 NM - karma points
+15 NM - reference to sections and videos
+16 Math
+17 Math - Geometry
+18 NM
+19 Math -
+20 NM - questioning, looking for answers.
+21 NM - Moderation
+22 Math - Word problems
+23 Math - profit loss
+24 NM - Greetings - good byes and thank you

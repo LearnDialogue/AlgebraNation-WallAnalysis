@@ -1,0 +1,8 @@
+polynomials form a system analogous to the integers namely they are closed under the operations of addition subtraction and multiplication
+add, subtract, and multiply polynomials
+addition, subtraction, and multiplication of polynomials with integral coefficients using distributive property. 
+add, subtract, and multiply polynomials with integral coefficients
+Identify zeros of polynomials when suitable factorizations are available 
+use the zeros to construct a rough graph of the function defined by the polynomial.
+find the zeros of a polynomial function when the polynomial is in factored form. 
+create a rough graph of a polynomial function in factored form by examining the zeros of the function.

@@ -1,0 +1,11 @@
+Create equations and inequalities in one variable and use them to solve problems. 
+Equations arising from linear and quadratic functions 
+Equations arising from simple rational, absolute, and exponential functions.
+Create and solve equations in one variable that arise from quadratic functions
+Create equations in two or more variables to represent relationships between quantities
+graph equations on coordinate axes with labels and scales.
+Represent constraints by equations or inequalities and by systems of equations and/or inequalities
+interpret solutions as viable or nonviable options in a modeling context. 
+represent inequalities describing nutritional and cost constraints on combinations of different foods
+Rearrange formulas to highlight a quantity of interest, using the same reasoning as in solving equations.
+rearrange Ohm’s law, V = IR, to highlight resistance, R.
